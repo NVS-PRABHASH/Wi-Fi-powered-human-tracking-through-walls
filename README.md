@@ -64,8 +64,6 @@ Then open your browser to `http://localhost:3000`
 │   ├── train_data/            # Training data
 │   ├── test_data/             # Test data
 │   ├── test_samples/          # Individual test samples for frontend
-├── synthetic_data_generator.py # Data generation script
-├── generate_test_samples.py   # Test sample generation
 ├── run_pipeline.py            # Full pipeline execution
 ├── start_backend.py           # Backend startup script
 ├── frontend/                  # React frontend
