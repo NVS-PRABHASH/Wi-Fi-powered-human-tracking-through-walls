@@ -32,8 +32,6 @@ python run_pipeline.py
 ```
 
 This will:
-- Generate synthetic WiFi CSI data (train and test sets)
-- Create individual test samples for frontend testing
 - Train the LSTM model
 - Test the model with the generated samples
 
